@@ -1,0 +1,12 @@
+<addons>
+    <addon id="plugin.video.hdvn" version="1.0.5" name="HDVN Plugin" provider-name="Tên của bạn">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.metadata">
+            <summary lang="en">HDVN Video Plugin</summary>
+            <description lang="en">Plugin để xem video từ HDVN trên Kodi</description>
+            <platform>all</platform>
+        </extension>
+    </addon>
+</addons>
